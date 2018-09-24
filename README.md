@@ -1,2 +1,2 @@
-# Aula-9-
-Aula 9 
+# 9_Diagnosticos-de-Residuos
+Testes LM, RESET e ARCH-LM
